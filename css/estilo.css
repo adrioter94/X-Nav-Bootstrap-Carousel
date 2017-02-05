@@ -1,0 +1,22 @@
+div#cabecera{
+  height: 100px;
+}
+
+#logo_cabecera{
+  width: 200px;
+  margin: 10px;
+  float: left;
+}
+
+#etsit_cabecera{
+  width: 850px;
+  margin-top: 28px;
+  float: left;
+}
+
+div.btn-group{
+  width: 100px;
+  margin-left: 25px;
+  margin-top: 40px;
+  float: left;
+}
